@@ -12,7 +12,7 @@
 
 ### Languages and Frameworks:
 
-<img align="left" width="26px" alt="Type Script" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="left" width="48px" alt="Type Script" src="https://simpleicons.org/icons/twitter.svg"/>
 <img align="left" width="26px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img align="left" width="26px" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <img align="left" width="26px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
