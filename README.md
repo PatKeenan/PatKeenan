@@ -1,7 +1,7 @@
 ### Hi there, I'm Pat Keenan [website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Pat_Keenan_?color=%231DA1F2&logo=Twitter&style=for-the-badge)]
+![Twitter Follow](https://img.shields.io/twitter/follow/Pat_Keenan_?color=%231DA1F2&logo=Twitter&style=for-the-badge)
 ## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
