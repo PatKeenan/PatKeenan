@@ -10,8 +10,7 @@
 ## Developer, Future Husband, Dog Dad
 - 📚 Self-taught coder, always learning!
 - 🐍 My favoriet programing language is Python
-- Currently learning Angular & Typescript
-- Realtor® by day Developer by night
+- 🏡 Realtor® by day developer by night
 
 
 ### Connect with me:
@@ -20,6 +19,8 @@
 
 <br />
 
+### Currently Learning
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 ### Languages and Tools:
 
 
