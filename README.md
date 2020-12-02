@@ -1,6 +1,6 @@
 # Hi There, I'm Pat Keenan 👋
 
-<img align="left" src="https://img.shields.io/twitter/follow/Pat_Keenan_?color=%231DA1F2&label=Follow&logo=Twitter&style=for-the-badge">
+<a href="www.twitter.com/Pat_Keenan_"><img align="left" src="https://img.shields.io/twitter/follow/Pat_Keenan_?color=%231DA1F2&label=Follow&logo=Twitter&style=for-the-badge"></a>
 <a href="https://stackoverflow.com/users/14745294/pat-keenan"><img align="left" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 <a><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
@@ -17,7 +17,6 @@
 
 ### Connect with me:
 - ✉️ patkeenan.dev@gmail.com
--
 
 <br />
 
