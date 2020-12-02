@@ -16,7 +16,7 @@
 
 ### Connect with me:
 - ✉️ patkeenan.dev@gmail.com
-- 🖥️ [Portfolio]("https://www.patkeenan.dev/")
+- 🖥️ <a href="https://www.patkeenan.dev/">Portfolio</a>
 
 <br />
 
