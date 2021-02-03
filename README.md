@@ -20,6 +20,12 @@
 - 🖥️ <a href="https://www.patkeenan.dev/">Portfolio</a>
 - 📷 <a href="https://www.instagram.com/Patkeenan316">@Patkeenan316</a>
 
+
+### My Top Projects:
+- [BeerFinder](beerfinder-1d4ce.web.app/home)
+- [RealtorCrm](realtorcrm-b26c0.web.app)
+
+
 ### Currently Learning
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![GO](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
