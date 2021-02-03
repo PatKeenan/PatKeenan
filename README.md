@@ -10,7 +10,7 @@
 
 ## Developer, Future Husband, Dog Dad
 - 📚 Self-taught coder, always learning!
-- 🐍 My favorite programing language is Python
+- 🐍 My favorite programing languages are Python and Javascript
 - 🏡 Realtor® by day developer by night
 - 🤙 Always looking to improve my code and connect with like minded coders! 
 
