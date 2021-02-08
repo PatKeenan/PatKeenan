@@ -12,7 +12,7 @@
 - 📚 Self-taught coder, always learning!
 - 🐍 My favorite programing languages are Python and Javascript
 - 🏡 Realtor® by day developer by night
-- 🤙 Always looking to improve my code and connect with like minded coders! 
+- 🤙 Always looking to improve my code and connect with like minded programmers! 
 
 
 ### Connect with me:
@@ -24,7 +24,7 @@
 ### My Top Projects:
 - [BeerFinder](beerfinder-1d4ce.web.app/home)
 - [RealtorCrm](realtorcrm-b26c0.web.app)
-
+- [Django Portfolio Website](https://github.com/PatKeenan/DjangoPortfolio)
 
 ### Currently Learning
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
