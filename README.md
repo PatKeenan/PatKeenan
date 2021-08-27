@@ -11,7 +11,7 @@
 ## Developer, Future Husband, Dog Dad
 - 📚 Self-taught coder, always learning!
 - 🐍 My favorite programing languages are Python and Javascript
-- 🏡 Realtor® by day developer by night
+- 🏡 Web Developer at Urban Emu
 - 🤙 Always looking to improve my code and connect with like minded programmers! 
 
 
