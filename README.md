@@ -8,7 +8,7 @@
 <br />
 <br />
 
-## Developer, Future Husband, Dog Dad
+## Developer, Husband, Dog Dad
 - 📚 Self-taught coder, always learning!
 - 🐍 My favorite programing languages are Python and Javascript
 - 🏡 Web Developer at Urban Emu
