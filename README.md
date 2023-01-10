@@ -53,7 +53,7 @@
 ![Turbp Repo](https://img.shields.io/badge/Turbo_Repo-092E20?style=for-the-badge&logo=turbo-repo&logoColor=white)
 <br />
 ![Prisma](https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-663399?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-38B2AC?style=for-the-badge&logo=supabase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-14354C?style=for-the-badge&logo=postgres&logoColor=white)
 
 
