@@ -9,10 +9,9 @@
 <br />
 
 ## Developer, Husband, Dog Dad
-- 📚 Self-taught developer, always learning!
-- 🐍 My favorite languages are Javascript/Typescript and Python
-- 🏡 Web Developer at Urban Emu
-- 🤙 Always looking to connect with like minded devs! 
+- 🐍 My favorite languages are Typescript, Python, and GO
+- 🏡 Software Engineer at Urban Emu
+- 🤙 Always looking to connect with like-minded devs! 
 
 ### Certifications:
 - [AWS Cloud Practitioner](https://www.credly.com/badges/1629e619-d9e8-4927-a357-eb18491e8985/public_url)
@@ -32,8 +31,6 @@
 ### Currently Learning
 ![GO](https://img.shields.io/badge/go-007ACC?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-02569B?style=for-the-badge&logo=rust&logoColor=white)
-
-
 
 
 ### Languages and Tools:
