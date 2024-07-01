@@ -15,6 +15,7 @@
 
 ### Certifications:
 - [AWS Cloud Practitioner](https://www.credly.com/badges/1629e619-d9e8-4927-a357-eb18491e8985/public_url)
+- [508 Trusted Tester](https://pk-certifications.s3.amazonaws.com/Patrick-Keenan-dhs.pdf)
 
 ### Connect with me:
 - ✉️ patkeenan.dev@gmail.com
