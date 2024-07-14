@@ -24,6 +24,7 @@
 
 
 ### My Top Projects:
+- [Gesture Tracking](https://github.com/PatKeenan/gesture-tracker)
 - [Improv Blog](https://github.com/PatKeenan/improvBlog)
 - [BeerFinder](beerfinder-1d4ce.web.app/home)
 - [RealtorCrm](https://www.agentspace.io/)
