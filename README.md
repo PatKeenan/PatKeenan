@@ -14,6 +14,7 @@
 - 🤙 Always looking to connect with like-minded devs! 
 
 ### Certifications:
+- [AWS Certified Solutions Architect – Associate]("https://www.credly.com/badges/7e67fc55-e67b-495b-b56c-09c28ff97895/public_url")
 - [AWS Cloud Practitioner](https://www.credly.com/badges/1629e619-d9e8-4927-a357-eb18491e8985/public_url)
 - [508 Trusted Tester](https://pk-certifications.s3.amazonaws.com/Patrick-Keenan-dhs.pdf)
 
